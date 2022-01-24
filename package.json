@@ -44,7 +44,7 @@
     "is-pr": "^2.0.0",
     "wechaty-puppet-mock": "^1.10.2",
     "wechaty-puppet-wechat": "^0.28.1",
-    "wechaty-puppet-wechat4u": "^0.18",
+    "wechaty-puppet-wechat4u": "^1.10",
     "wechaty-puppet-whatsapp": "^1.10.4"
   },
   "git": {
